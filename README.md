@@ -1,3 +1,12 @@
+<h1 align="center">Hi 👋, I'm ABHISHEK M B</h1>
+<h3 align="center">A passionate developer from India 🇮🇳 </h3>
+
+- 🌱 I’m currently learning **System Design,DSA,Game Development**
+
+- 💻 All of my projects are available on [GitHub](https://github.com/MBABHISHEK)
+
+- 📫 Reach out to me at **mba384420@gmail.com**
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MBABHISHEK&label=Profile%20views&color=0e75b6&style=flat" alt="ABHISHEKMB" /> </p>
